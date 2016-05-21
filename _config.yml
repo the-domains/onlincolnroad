@@ -1,6 +1,7 @@
-layout_spectrum: 0.7459721
+layout_spectrum: 0.7330827
+typography_spectrum: 0.7287863
 color:
-  saturation: 0.1404162
+  saturation: 0.3442535
   lightness: 0.02678231
   brandStrength: 1
   brandColors:
@@ -10,5 +11,4 @@ color:
     - '#81B33C'
     - '#7D0E13'
   rhythmicContrast: 0.9672801
-typography_spectrum: 0.08155943
 name: OnlincolnRoad
