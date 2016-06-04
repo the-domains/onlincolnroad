@@ -1,14 +1,3 @@
-color:
-  saturation: 0.3442535
-  brandStrength: 1
-  rhythmicContrast: 0.9672801
-  brandColors:
-    - '#010000'
-    - '#015E84'
-    - '#4F6F24'
-    - '#81B33C'
-    - '#7D0E13'
-  lightness: 0.02678231
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7330827
-typography_spectrum: 0.7287863
+color:
+  saturation: 0.3442535
+  brandStrength: 1
+  rhythmicContrast: 0.9672801
+  brandColors:
+    - '#010000'
+    - '#015E84'
+    - '#4F6F24'
+    - '#81B33C'
+    - '#7D0E13'
+  lightness: 0.02678231
+typography_spectrum: 0.4860365
+layout_spectrum: 0.1960257
 name: OnlincolnRoad
